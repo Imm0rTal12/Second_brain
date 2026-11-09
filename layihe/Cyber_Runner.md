@@ -5,7 +5,7 @@ Gələcək Bakı şəhərində keçən sürətli 3D parkur və kiber-döyüş oy
 
 ## Status və İşlər
 - [x] Oyunun əsas hekayə xətti hazırlandı
-- [ ] [[Qehreman_Kaya]] üçün 3D model eskizi çəkilməlidir
+- [x] [[Qehreman_Kaya]] üçün 3D model eskizi və xarakter dizaynı tamamlandı
 - [ ] Unreal Engine mühitində qaçış fizikası test edilməlidir
 - [ ] Səs effektləri və kiber musiqilər tapılmalıdır
 ## Oyun Mexanikası

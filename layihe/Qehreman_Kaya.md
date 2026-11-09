@@ -1,6 +1,7 @@
 # Qəhrəman: Kaya
 
 ## Xarakter Profili
+- **Status:** Tamamlandı (Hazır)
 - **Rol:** Kiber-kuryer və qaçaq döyüşçü
 - **Əlaqəli Layihə:** [[Cyber_Runner]]
 - **Silahı:** Plazma Qılıncı

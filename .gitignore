@@ -1,2 +1,6 @@
 .obsidian/workspace.json
 .obsidian/graph.json
+.claude/settings.local.json
+.beyin-runtime.json
+.beyin-note-write/
+

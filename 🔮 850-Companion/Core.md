@@ -9,6 +9,6 @@
 - **İş sahələri:** Proqramlaşdırma, sistem avtomatlaşdırması, AI iş axınları və şəxsi öyrənmə/qeydlər.
 
 ## Qızıl Qaydalar və Tercihlər
-- Hər mənalı iş bitəndə gündəlik qeydi yaz, Git Save Point al və GitHub-a (Imm0rTal12/Second_brain) push et.
+- Hər mənalı iş parçası bitəndə (sözümü gözləmədən) Last-Session.md-də sessiya kartını yenilə, `beyin.py sync` işlət, Git Save Point al və GitHub-a (Imm0rTal12/Second_brain) push et.
 - Lazımsız zarafat və boş söhbətləri yaddaşa yazma, yalnız faydalı bilik və layihə addımlarını qeyd et.
 - İstifadəçinin açıq qərarları və göstərişləri bütün daxili fərziyyələrdən üstündür.

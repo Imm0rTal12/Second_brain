@@ -6,7 +6,7 @@
 - **İstifadəçi:** Imm0rTal12 (Emin)
 - **Əlaqə:** serviskomp40@gmail.com
 - **Ünsiyyət dili:** Azərbaycan dili (aydın, birbaşa, uşaq dili kimi anlaşılan və real bənzətmələrlə).
-- **İş sahələri:** 3D oyun inkişafı (Layihə: Cyber-Runner), proqramlaşdırma, sistem avtomatlaşdırması və şəxsi qeydlər.
+- **İş sahələri:** Proqramlaşdırma, sistem avtomatlaşdırması, AI iş axınları və şəxsi öyrənmə/qeydlər.
 
 ## Qızıl Qaydalar və Tercihlər
 - Hər mənalı iş bitəndə gündəlik qeydi yaz, Git Save Point al və GitHub-a (Imm0rTal12/Second_brain) push et.
